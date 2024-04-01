@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Chittaranjans/e-web.git"
+  },
+  "author": "chittaranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chittaranjans/e-web/issues"
+  },
+  "homepage": "https://github.com/Chittaranjans/e-web#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "description": ""
+}
